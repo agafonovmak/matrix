@@ -13,4 +13,5 @@ public:
 	void zero();
 	void input(int* arr);
 	void print();
+	float determiner();
 };
